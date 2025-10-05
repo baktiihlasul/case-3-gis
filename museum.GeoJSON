@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Museum Palagan Bojongkokosan",
+        "description": "Museum yang menyimpan berbagai artefak dan informasi tentang pertempuran Bojongkokosan selama perjuangan kemerdekaan Indonesia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7601512789376, -6.825534113728056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area Museum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [106.75996040047288, -6.825458735287653],
+            [106.7602875023852, -6.825415430795314],
+            [106.76030619392304, -6.825610300979976],
+            [106.75997909201072, -6.825653605472315],
+            [106.75996040047288, -6.825458735287653]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "jalan menuju museum"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [106.76026751213081, -6.8246048514858675],
+          [106.76045485743451, -6.825758160971832]
+        ]
+      }
+    }
+  ]
+}
